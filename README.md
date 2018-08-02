@@ -1,5 +1,5 @@
 # Algoritmo de Lagrange: Interpolação Polinomial 
-> O presente projeto tem como objetivo a implementação do algoritmo de interpolação polinomial de Joseph-Louis de Lagrange (1736-1813) para a resolução do problema a seguir. 
+> O presente projeto tem como objetivo a implementação do algoritmo de interpolação polinomial de Joseph-Louis de Lagrange (1736-1813) para a resolução de um problema de engenharia de transporte. 
 
 <p> 
 Um estudo de engenharia de transporte foi conduzido para determinar um projeto adequado de faixas para bicicletas. Foram coletados dados sobre a largura das faixas e a distância média entre as bicicletas e os carros trafegando. Se a distância média mínima de segurança entre as bicicletas e os carros trafegando é de 1.9 metros, determine a largura da faixa correspondente utilizando dois polinômios interpoladores para a resolução do problema. 
