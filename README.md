@@ -1,13 +1,16 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Algoritmo de Lagrange: Interpolação Polinomial 
+> O presente projeto tem como objetivo a implementação do algoritmo de interpolação polinomial de Joseph-Louis de Lagrange (1736-1813) para a resolução do problema a seguir. 
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+<p> 
+Um estudo de engenharia de transporte foi conduzido para determinar um projeto adequado de faixas para bicicletas. Foram coletados dados sobre a largura das faixas e a distância média entre as bicicletas e os carros trafegando. Se a distância média mínima de segurança entre as bicicletas e os carros trafegando é de 1.9 metros, determine a largura da faixa correspondente utilizando dois polinômios interpoladores para a resolução do problema. 
+ 
+</p> 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-
-![](../header.png)
+<strong> Distancia (m):</strong> <br />
+2.4 , 1.5 , 2.4 , 1.8 , 1.8 , 2.9 , 1.2 , 3.0 , 1.2 <br />
+<strong> Largura da Faixa (m):</strong> <br />
+2.9 , 2.1 , 2.4 , 2.1 , 1.8 , 2.7 , 1.5 , 2.9 , 1.5 <br />
+   
 
 ## Instalação
 
