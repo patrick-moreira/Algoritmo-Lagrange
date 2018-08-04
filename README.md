@@ -22,9 +22,8 @@ Um estudo de engenharia de transporte foi conduzido para determinar um projeto a
 ## Exemplo de uso
 
 
-## Contributing
-
-1. Faça o _fork_ do projeto (<https://github.com/patrick-moreira/Algoritmo-Lagrange.git/>)
+## Contribuição
+Faça o _fork_ do projeto (<https://github.com/patrick-moreira/Algoritmo-Lagrange.git/>)
 2. Crie uma _branch_ para sua modificação (`git checkout -b _nomedabranch_`)
 3. Faça o _commit_ (`git commit -m '_comentário_'`)
 4. _Push_ (`git push origin _nomedabranch_`)
