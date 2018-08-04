@@ -7,7 +7,7 @@ Um estudo de engenharia de transporte foi conduzido para determinar um projeto a
  
 </p> 
 
-<strong> Distancia (m):</strong> <br />
+<strong> Distância (m):</strong> <br />
 2.4 , 1.5 , 2.4 , 1.8 , 1.8 , 2.9 , 1.2 , 3.0 , 1.2 <br />
 <strong> Largura da Faixa (m):</strong> <br />
 2.9 , 2.1 , 2.4 , 2.1 , 1.8 , 2.7 , 1.5 , 2.9 , 1.5 <br />
