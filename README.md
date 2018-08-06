@@ -23,7 +23,7 @@ Um estudo de engenharia de transporte foi conduzido para determinar um projeto a
 
 
 ## Contribuindo
-Faça o _fork_ do projeto (<https://github.com/patrick-moreira/Algoritmo-Lagrange.git/>) <br />
+1. Faça o _fork_ do projeto <br />
 2. Crie uma _branch_ para sua modificação (`git checkout -b _nomedabranch_`) <br />
 3. Faça o _commit_ (`git commit -m '_comentário_'`) <br />
 4. _Push_ (`git push origin _nomedabranch_`) <br />
