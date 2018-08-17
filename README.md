@@ -1,11 +1,13 @@
 <!DOCTYPE html>
 <html>
       <head> 
-            <title> Lagrange Algorithm: Polynomial Interpolation </title>
-            <subtitle> The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial                                    interpolation algorithm for the resolution of a transport engineering problem.</subtitle>
-      </head>      
-<p>
-DESCRIPTION: A transportation engineering study was conducted to determine an appropriate design of bicycle lanes. Data were collected on the width of the tracks and the average distance between bicycles and cars traveling. If the minimum safe distance between bicycles and cars traveling is 1.9 meters, determine the width of the corresponding track using two interpolator polynomials to solve the problem. </ p>
+            <h1> Lagrange Algorithm: Polynomial Interpolation </h1>
+            <h3> The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial                                    interpolation algorithm for the resolution of a transport engineering problem.</h3>
+      </head>
+      <body>
+            <p> DESCRIPTION: A transportation engineering study was conducted to determine an appropriate design of bicycle                   lanes. Data were collected on the width of the tracks and the average distance between bicycles and cars                     traveling. If the minimum safe distance between bicycles and cars traveling is 1.9 meters, determine the                    width of the corresponding track using two interpolator polynomials to solve the problem. </ p>
+      </body>
+</html>
 
 _Distance (m)_: <br />
 `2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2` <br />
@@ -33,4 +35,4 @@ To Execute:
 4. _Push_ (`git push origin _branch-name_`) <br />
 5. Create a new _Pull Request_ <br />
 
-</html>
+
