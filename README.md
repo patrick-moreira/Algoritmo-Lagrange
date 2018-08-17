@@ -7,25 +7,24 @@ A transportation engineering study was conducted to determine an appropriate des
 </p> 
 
 Distance (m): <br />
-```2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2```<br /> 
+`2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2`<br /> 
 Width (m): <br />
-```2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5```
+`2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5`
 
 # Running:
 Once your computer has gcc installed, use the following command on the terminal:
 
-To compile: ```make```
+To compile: `make`
 
 To Execute:<br />
-On Linux: ```./lagrange points.txt```
+_On Linux:_ `./lagrange points.txt`
 
-On Windows: ```lagrange.exe points.txt```
+_On Windows:_ `lagrange.exe points.txt`
 
 # Contributing: 
-
-1. Fork 
-2. Create a branch for your modification (git checkout -b `_branch-name_`) 
-3. Do the commit (git commit -m `'_commentary_'`) 
-4. Push (git push origin `_branch-name_`) 
-5. Create a new Pull Request 
+1. _Fork_ 
+2. Create a _branch_ for your modification (git checkout -b _`branch-name`_) 
+3. Do the commit (git commit -m _`'commentary'`_) 
+4. Push (git push origin _`branch-name`_) 
+5. Create a new _Pull Request_ 
 
