@@ -7,14 +7,15 @@ A transportation engineering study was conducted to determine an appropriate des
  
 </ p>
 
-<strong> Distance (m): </ strong> <br />
+<strong> Distance (m): </strong> <br />
 2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2 <br />
 <strong> Width (m): </ strong> <br />
 2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5 
 
 
 ## Running:
-Once your computer has gcc installed, use the following command on the ´´´ terminal ´´´:
+
+Once your computer has gcc installed, use the following command on the terminal:
 
   ``` make ```
 
