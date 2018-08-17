@@ -17,9 +17,9 @@ Once your computer has gcc installed, use the following command on the terminal:
 To compile: `make`
 
 To Execute:<br />
-_On Linux:_ `./lagrange points.txt`
+_On Linux:_ `./lagrange`
 
-_On Windows:_ `lagrange.exe points.txt`
+_On Windows:_ `lagrange.exe`
 
 # Contributing: 
 1. Fork 
