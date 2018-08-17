@@ -7,25 +7,25 @@ Um estudo de engenharia de transporte foi conduzido para determinar um projeto a
  
 </p> 
 
-<strong> Distância (m):</strong> <br />
-2.4 , 1.5 , 2.4 , 1.8 , 1.8 , 2.9 , 1.2 , 3.0 , 1.2 <br />
-<strong> Largura da Faixa (m):</strong> <br />
-2.9 , 2.1 , 2.4 , 2.1 , 1.8 , 2.7 , 1.5 , 2.9 , 1.5 <br />
-   
+Distance (m): 
+2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2 
+Width (m): 
+2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5
 
-## Dependências
+Running:
+Once your computer has gcc installed, use the following command on the terminal:
 
+To compile: make
 
-## Execução
+To Execute:
+On Linux: ./lagrange points.txt
 
+On Windows: lagrange.exe points.txt
 
-## Exemplo de uso
-
-
-## Contribuindo
-1. Faça o _fork_ do projeto <br />
-2. Crie uma _branch_ para sua modificação (`git checkout -b _nomedabranch_`) <br />
-3. Faça o _commit_ (`git commit -m '_comentário_'`) <br />
-4. _Push_ (`git push origin _nomedabranch_`) <br />
-5. Crie um novo _Pull Request_ <br />
+contributing
+Fork 
+Create a branch for your modification (git checkout -b _branch-name_) 
+Do the commit (git commit -m '_commentary_') 
+Push (git push origin _branch-name_) 
+Create a new Pull Request 
 
