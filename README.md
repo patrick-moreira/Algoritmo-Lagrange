@@ -1,10 +1,9 @@
-# Algoritmo de Lagrange: Interpolação Polinomial 
-> O presente projeto tem como objetivo a implementação do algoritmo de interpolação polinomial de Joseph-Louis de Lagrange (1736-1813) para a resolução de um problema de engenharia de transporte. 
+# Lagrange Algorithm: Polynomial Interpolation
+> The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial interpolation algorithm for the resolution of a transport engineering problem. 
 
 <p>
- DESCRIÇÃO:
-Um estudo de engenharia de transporte foi conduzido para determinar um projeto adequado de faixas para bicicletas. Foram coletados dados sobre a largura das faixas e a distância média entre as bicicletas e os carros trafegando. Se a distância média mínima de segurança entre as bicicletas e os carros trafegando é de 1.9 metros, determine a largura da faixa correspondente utilizando dois polinômios interpoladores para a resolução do problema. 
- 
+DESCRIPTION:
+A transportation engineering study was conducted to determine an appropriate design of bicycle lanes. Data were collected on the width of the tracks and the average distance between bicycles and cars traveling. If the minimum safe distance between bicycles and cars traveling is 1.9 meters, determine the width of the corresponding track using two interpolator polynomials to solve the problem.
 </p> 
 
 Distance (m): 
@@ -12,7 +11,7 @@ Distance (m):
 Width (m): 
 ```2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5```
 
-Running:
+# Running:
 Once your computer has gcc installed, use the following command on the terminal:
 
 To compile: ```make```
@@ -22,7 +21,8 @@ On Linux: ```./lagrange points.txt```
 
 On Windows: ```lagrange.exe points.txt```
 
-<h2> contributing </h2>
+# Contributing: 
+
 1. Fork 
 2. Create a branch for your modification (git checkout -b _branch-name_) 
 3. Do the commit (git commit -m '_commentary_') 
