@@ -1,3 +1,4 @@
+<html>
 # Lagrange Algorithm: Polynomial Interpolation
 > The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial interpolation algorithm for the resolution of a transport engineering problem.
 
@@ -30,3 +31,4 @@ To Execute:
 4. _Push_ (`git push origin _branch-name_`) <br />
 5. Create a new _Pull Request_ <br />
 
+</html>
