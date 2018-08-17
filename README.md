@@ -21,6 +21,8 @@ _On Linux:_ `./lagrange`
 
 _On Windows:_ `lagrange.exe`
 
+** Modify the points.txt file for other solutions.
+
 # Contributing: 
 1. Fork 
 2. Create a branch for your modification (git checkout -b _`branch-name`_) 
