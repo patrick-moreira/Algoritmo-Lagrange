@@ -24,8 +24,8 @@ On Windows: ```lagrange.exe points.txt```
 # Contributing: 
 
 1. Fork 
-2. Create a branch for your modification (git checkout -b _branch-name_) 
-3. Do the commit (git commit -m '_commentary_') 
-4. Push (git push origin _branch-name_) 
+2. Create a branch for your modification (git checkout -b `_branch-name_`) 
+3. Do the commit (git commit -m `'_commentary_'`) 
+4. Push (git push origin `_branch-name_`) 
 5. Create a new Pull Request 
 
