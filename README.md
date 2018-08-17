@@ -14,11 +14,11 @@ _Width (m)_: <br />
 
 Once your computer has gcc installed, use the following command on the terminal:
 
-_On Linux_: <br />
-          `make`<br />
-         `./lagrange points.txt`
+On Linux: 
+          ```make
+             ./lagrange points.txt```
 
-_On Windows_: <br /> 
+On Windows: <br /> 
            `make`<br />
            `lagrange.exe points.txt` 
            
