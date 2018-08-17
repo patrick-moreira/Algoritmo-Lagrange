@@ -21,7 +21,7 @@ _On Linux:_ `./lagrange`
 
 _On Windows:_ `lagrange.exe`
 
-** Modify the points.txt file for other solutions.
+** Modify the _points.txt_ file for other solutions.
 
 # Contributing: 
 1. Fork 
