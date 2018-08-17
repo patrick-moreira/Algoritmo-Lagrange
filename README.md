@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-#Lagrange Algorithm: Polynomial Interpolation
+# Lagrange Algorithm: Polynomial Interpolation
 > The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial interpolation algorithm for the resolution of a transport engineering problem.
 
 <p>
