@@ -5,7 +5,7 @@
             <h4> The present project aims to implement the Joseph-Louis de Lagrange (1736-1813) polynomial                                    interpolation algorithm for the resolution of a transport engineering problem.</h4>
       </head>
       <body>
-            <p> <h1 font-size: 30px > 
+            <p> <h1 font-size: 10px > 
             DESCRIPTION: A transportation engineering study was conducted to determine an appropriate design of bicycle                   lanes. Data were collected on the width of the tracks and the average distance between bicycles and cars                     traveling. If the minimum safe distance between bicycles and cars traveling is 1.9 meters, determine the                     width of the corresponding track using two interpolator polynomials to solve the problem. </h1> </ p>
       </body>
 </html>
