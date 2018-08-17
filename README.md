@@ -8,24 +8,24 @@ Um estudo de engenharia de transporte foi conduzido para determinar um projeto a
 </p> 
 
 Distance (m): 
-2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2 
+```2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2``` 
 Width (m): 
-2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5
+```2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5```
 
 Running:
 Once your computer has gcc installed, use the following command on the terminal:
 
-To compile: make
+To compile: ```make```
 
 To Execute:
-On Linux: ./lagrange points.txt
+On Linux: ```./lagrange points.txt```
 
-On Windows: lagrange.exe points.txt
+On Windows: ```lagrange.exe points.txt```
 
-contributing
-Fork 
-Create a branch for your modification (git checkout -b _branch-name_) 
-Do the commit (git commit -m '_commentary_') 
-Push (git push origin _branch-name_) 
-Create a new Pull Request 
+<h2> contributing </h2>
+1. Fork 
+2. Create a branch for your modification (git checkout -b _branch-name_) 
+3. Do the commit (git commit -m '_commentary_') 
+4. Push (git push origin _branch-name_) 
+5. Create a new Pull Request 
 
