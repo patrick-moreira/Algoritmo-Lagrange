@@ -22,9 +22,9 @@ _On Linux:_ `./lagrange points.txt`
 _On Windows:_ `lagrange.exe points.txt`
 
 # Contributing: 
-1. _Fork_ 
-2. Create a _branch_ for your modification (git checkout -b _`branch-name`_) 
+1. Fork 
+2. Create a branch for your modification (git checkout -b _`branch-name`_) 
 3. Do the commit (git commit -m _`'commentary'`_) 
 4. Push (git push origin _`branch-name`_) 
-5. Create a new _Pull Request_ 
+5. Create a new Pull Request 
 
