@@ -8,7 +8,7 @@ A transportation engineering study was conducted to determine an appropriate des
 
 Distance (m): <br />
 ```2.4, 1.5, 2.4, 1.8, 1.8, 2.9, 1.2, 3.0, 1.2```<br /> 
-Width (m): 
+Width (m): <br />
 ```2.9, 2.1, 2.4, 2.1, 1.8, 2.7, 1.5, 2.9, 1.5```
 
 # Running:
