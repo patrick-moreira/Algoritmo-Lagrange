@@ -23,10 +23,3 @@ _On Windows:_ `lagrange.exe`
 
 ** Modify the _points.txt_ file for other solutions.
 
-# Contributing: 
-1. Fork 
-2. Create a branch for your modification (git checkout -b _`branch-name`_) 
-3. Do the commit (git commit -m _`'commentary'`_) 
-4. Push (git push origin _`branch-name`_) 
-5. Create a new Pull Request 
-
